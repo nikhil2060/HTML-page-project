@@ -1,2 +1,2 @@
-# html-info-website-project
+# Click to visit website: http://learn.html/
  
